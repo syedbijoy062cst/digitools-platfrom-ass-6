@@ -3,6 +3,7 @@ import Banner from "../components/Banner";
 import BannerP from "../components/BannerP";
 import Navber from "../components/Navber";
 import { useState } from "react";
+import Staps from "../components/Staps";
 
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
                 <Banner/>
                 <BannerP/>
                 <AllTools setCarts={setCarts} carts={carts}/>
+                <Staps/>
             </div>
              
         </div>
