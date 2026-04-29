@@ -4,6 +4,7 @@ import BannerP from "../components/BannerP";
 import Navber from "../components/Navber";
 import { useState } from "react";
 import Staps from "../components/Staps";
+import Pricing from "../components/Pricing";
 
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
                 <BannerP/>
                 <AllTools setCarts={setCarts} carts={carts}/>
                 <Staps/>
+                <Pricing/>
             </div>
              
         </div>
