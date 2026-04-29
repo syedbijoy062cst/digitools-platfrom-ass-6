@@ -6,6 +6,7 @@ import { useState } from "react";
 import Staps from "../components/Staps";
 import Pricing from "../components/Pricing";
 import RadyToTransfrom from "../components/RadyToTransfrom";
+import Footer from "../components/Footer";
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
                 <Staps/>
                 <Pricing/>
                 <RadyToTransfrom/>
+                <Footer/>
             </div>
              
         </div>
