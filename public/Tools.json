@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with modern templates.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "FileText"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Generator",
+    "description": "Build stunning personal portfolios easily.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Custom domains", "Drag & drop editor", "Responsive design"],
+    "icon": "Layout"
+  },
+  {
+    "id": 3,
+    "name": "AI Cover Letter Tool",
+    "description": "Generate personalized cover letters using AI.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["AI writing", "Multiple formats", "Instant download"],
+    "icon": "PenTool"
+  },
+  {
+    "id": 4,
+    "name": "Job Tracker",
+    "description": "Track your job applications in one place.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Application tracking", "Status updates", "Reminders"],
+    "icon": "CheckCircle"
+  },
+  {
+    "id": 5,
+    "name": "LinkedIn Optimizer",
+    "description": "Optimize your LinkedIn profile for better reach.",
+    "price": 14.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Profile analysis", "Keyword suggestions", "SEO tips"],
+    "icon": "Linkedin"
+  },
+  {
+    "id": 6,
+    "name": "Mock Interview AI",
+    "description": "Practice interviews with AI feedback.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["AI interviewer", "Real-time feedback", "Performance report"],
+    "icon": "Mic"
+  },
+  {
+    "id": 7,
+    "name": "Freelance Proposal Kit",
+    "description": "Win clients with professional proposals.",
+    "price": 24.99,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Proposal templates", "Client tracking", "PDF export"],
+    "icon": "Briefcase"
+  },
+  {
+    "id": 8,
+    "name": "Skill Assessment Tool",
+    "description": "Test and improve your professional skills.",
+    "price": 6.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Skill quizzes", "Progress tracking", "Certificates"],
+    "icon": "Award"
+  }
+]
