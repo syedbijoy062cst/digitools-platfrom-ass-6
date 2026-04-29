@@ -39,6 +39,9 @@ const Carts = ({ setCarts,carts}) => {
                 <h2 className="text-2xl">Your Total</h2>
                 <h2 className="text-2xl">${total.toFixed(2)}</h2>
             </div>
+            <div className="py-4">
+            <button className="btn btn-primary rounded-2xl w-[1120px] h-[50px]">Proceed to Checkout</button>
+            </div>
         </div>
 
     );

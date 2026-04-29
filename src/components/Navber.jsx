@@ -34,7 +34,7 @@ const Navber = ({carts}) => {
           <span className="badge badge-sm indicator-item">{ carts.length}</span>
         </div>
         <div >
-            <a className="text-2xl">Login</a>
+            <a className="text-sm">Login</a>
         </div>
     <a className="btn bg-gradient-to-r from-[#4F39F6] to-[#4F39F6] text-white  rounded-[20px]">Get Started</a>
   </div>

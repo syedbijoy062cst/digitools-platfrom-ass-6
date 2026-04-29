@@ -2,7 +2,7 @@ import BannerImg from '/banner.png'
 // import iconImg from '/icon.png'
 const Banner = () => {
     return (
-        <div className="grid grid-cols-2 items-center mt-12 gap-12 px-36">
+        <div className="grid lg:grid-cols-2 items-center mt-12 gap-12 px-36">
             {/* left */}
             <div className='space-y-5'>
                 <p className="text-sm rounded-full w-1/2 bg-[#E1E7FF] text-[#4F39F6] px-3 py-1">   New: AI-Powered Tools Available</p>
